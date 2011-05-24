@@ -1,4 +1,5 @@
 Changes
+etc/perlcriticrc
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
@@ -16,6 +17,5 @@ README
 t/01-use.t
 t/10-filter.t
 xt/author/critic.t
-xt/perlcriticrc
 xt/release/pod.t
 xt/release/pod_coverage.t

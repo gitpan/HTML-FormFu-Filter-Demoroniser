@@ -35,13 +35,13 @@ METHODS
 SEE ALSO
     *   HTML::FormFu
 
-    *   Text::Demoronise
+    *   Text::Demoroniser
 
 AUTHOR
     Brian Cassidy <bricas@cpan.org>
 
 COPYRIGHT AND LICENSE
-    Copyright 2009 by Brian Cassidy
+    Copyright 2009-2011 by Brian Cassidy
 
     This library is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
